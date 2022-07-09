@@ -1,4 +1,4 @@
-Soccer News App
+# Soccer News App
 App Nativo Android de Notícias Sobre Futebol Feminino. Este repositório foi organizado em algumas branches que representam as implementações realizadas durante os seguintes conteúdos/vídeos:
 
 1. Android Jetpack e Material Design: Criando Apps Nativos Poderosos
